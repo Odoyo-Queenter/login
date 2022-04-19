@@ -1,0 +1,176 @@
+body{
+    background: linear-gradient(to right, rgb(255, 241, 119), rgb(240, 169, 240));
+}
+.title{
+    border: solid 1px rgb(255,200,124);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 350px;
+    padding: 25px 1px 1px 25px;
+    margin: 55px 1px 5px 245px;
+    background-color: rgb(255,200,124);
+    /* height:90vh ; */
+    
+    
+}
+#dribbble{
+    font-family: 'Updock', cursive;
+    font-size: x-large;
+    margin: 1px;
+    color: rgb(88, 88, 34);
+    
+}
+.title img{
+    width: 410px;
+    margin-left: -7%;
+    margin-top: 40%;
+    height: 30vh;
+}
+#text{
+    color: rgb(99, 99, 35);
+    margin-top: 2px;
+}
+.title p{
+    font-size: x-small;
+    margin-bottom: 20px;
+}
+.details{
+    border: solid 1px white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 700px;
+    padding: 25px 1px 1px 25px;
+    margin: 50px 110px 10px 1px;
+    background-color: white;
+    height: 80vh;
+}
+.container{
+    display: flex;
+}
+.details header{
+    
+    width: 200px;
+    margin-left: 70%;
+}
+#sign-up{
+    
+    margin-top: 50px;
+    margin-left: 60px;
+    font-weight: bold;
+    font-size: large;
+}
+.icon{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+#google{
+    
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(57, 112, 157);
+}
+#g-icon{
+    width: 20px;
+    padding-right: 10px;
+    padding-top: 6px;
+}
+#twitter{ 
+   margin-top: 1px;
+ }
+#facebook{
+     
+    margin-bottom: -1px;
+}
+.icons{
+    margin-left: 20px;
+}
+.line{
+    display: flex;
+}
+.line-one{
+    margin-left: 60px;
+    margin-right: 20px;
+    height: 1px;
+    border: none;
+}
+.line-two{
+    margin-left: 20px;
+    height: 1px;
+    border: none; 
+}
+.user-info{
+    display: flex;
+    margin-left: 59px;
+    
+}
+.label{
+    font-weight: bold;
+}
+.names input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: large;
+}
+.username{
+    margin-left: 50px;
+    
+
+}
+.username input{
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: large;
+}
+.email input{
+    width: 355px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: large;
+}
+.password input{
+    width: 355px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(219,219,219);
+    margin-top: 5px;
+    font-size: small;
+}
+.email{
+    margin-left: 59px;
+}
+.password{
+    margin-left: 59px;
+}
+.condition{
+    margin-left: 57px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+.click{
+    margin-left: 57px;
+    margin-top: 15px;
+    color: white;
+    background-color: rgb(252, 113, 187);
+    width: 190px; 
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
